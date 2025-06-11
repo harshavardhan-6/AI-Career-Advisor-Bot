@@ -47,4 +47,4 @@ Learning GenAI, LangChain, Hugging Face & Python
 ## 🔗 GitHub
 
 If you're viewing this from outside, find the full code here:  
-https://github.com/harshavardhan-6/AI-Career-Advisor-Bot
+https://github.com/harshavardhan-6/AI-Career-Advisor-Bot/blob/main/career_advisor_bot.py
